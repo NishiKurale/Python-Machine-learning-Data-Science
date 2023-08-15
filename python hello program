@@ -1,0 +1,4 @@
+msg_str =input("Enter string: ")
+print("Message is: ")
+for i in range(len(s)):
+    print(f"{s[i]}")
